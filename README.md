@@ -1,4 +1,4 @@
-- 👋 Hi, I’m P J Joseph
+- 👋 Hi, I’m PJ Joseph
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any interesting topic
